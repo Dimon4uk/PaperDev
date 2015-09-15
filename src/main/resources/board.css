@@ -1,0 +1,31 @@
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size: 10pt;
+}
+.scroll-pane{
+    -fx-background-color: #383838;
+    -fx-font-size: 10pt;
+}
+.label{
+    -fx-text-fill: #f8f8f8;
+    -fx-min-width: 65px;
+}
+.button-del{
+    -fx-background-color: linear-gradient(#ab4642,#993333);
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 6;
+    -fx-min-width: 70px;
+}
+.button-clr{
+    -fx-background-color:  linear-gradient(#003399, #0000E6);
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 6;
+    -fx-min-width: 70px;
+}
+.button-new{
+    -fx-background-color: linear-gradient(#005200,#006B00);//#28158b;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 6;
+    -fx-min-width: 70px;
+}
+
